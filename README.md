@@ -1,47 +1,47 @@
-📜 Política de Privacidad – JINSOUL BOT
-Última actualización: 23 de junio de 2025
+📜 Privacy Policy – JINSOUL BOT
+Last Updated: June 23, 2025
 
-JINSOUL BOT es un bot de entretenimiento para Discord que ofrece funciones como cartas coleccionables, actividades interactivas y comandos de utilidad. Valoramos la privacidad de los usuarios y nos comprometemos a proteger cualquier información recopilada a través de nuestro bot.
+JINSOUL BOT is an entertainment Discord bot that offers features such as collectible cards, interactive activities, and utility commands. We value user privacy and are committed to protecting any information collected through our bot.
 
-1. Datos que recopilamos
-JINSOUL BOT puede almacenar algunos datos necesarios para su funcionamiento:
+1. Data We Collect
+JINSOUL BOT may store some data necessary for its functionality:
 
-Tu ID de usuario de Discord
+Your Discord user ID
 
-Tu nombre de usuario (solo para mostrar historial)
+Your username (used only to display history)
 
-Tu inventario, colecciones, drops y estadísticas dentro del bot
+Your inventory, collections, drops, and statistics within the bot
 
-Registro de interacciones y eventos relacionados con el bot
+Logs of interactions and events related to the bot
 
-Datos de economía, transferencias, boosters o actividades realizadas dentro del bot
+Economy data, transfers, boosters, or activities performed within the bot
 
-No almacenamos ni accedemos a mensajes privados ni a datos sensibles.
+We do not store or access private messages or sensitive personal data.
 
-2. Cómo usamos esta información
-Los datos recopilados son utilizados exclusivamente para:
+2. How We Use This Information
+The collected data is used exclusively to:
 
-Proporcionar las funcionalidades del bot (colecciones, inventarios, estadísticas, etc.)
+Provide bot functionalities (collections, inventories, stats, etc.)
 
-Personalizar la experiencia del usuario
+Personalize the user experience
 
-Mantener registros internos (como drops o baneos)
+Maintain internal records (such as drops or bans)
 
-Mejorar el rendimiento y estabilidad del bot
+Improve the bot’s performance and stability
 
-3. Compartición de datos
-No compartimos tus datos con terceros. Toda la información es usada únicamente por el bot y almacenada de forma privada en una base de datos controlada por el desarrollador.
+3. Data Sharing
+We do not share your data with third parties. All information is used solely by the bot and stored privately in a database controlled by the developer.
 
-4. Eliminación de datos
-Si deseas eliminar todos los datos asociados contigo, puedes solicitarlo directamente al desarrollador del bot. Para ello, envía un mensaje a través del servidor de soporte o contacto indicado en el bot.
+4. Data Deletion
+If you wish to delete all data associated with you, you may request it directly from the bot developer. To do so, send a message through the support server or the contact method provided by the bot.
 
-5. Cambios en esta política
-Nos reservamos el derecho de actualizar esta Política de Privacidad. Se te notificará cualquier cambio importante a través del servidor oficial de soporte o mediante el bot.
+5. Changes to This Policy
+We reserve the right to update this Privacy Policy. Any major changes will be announced through the official support server or the bot itself.
 
-6. Contacto
-Para cualquier duda, reclamo o solicitud relacionada con tu privacidad, puedes contactar al desarrollador a través del servidor de soporte:
+6. Contact
+For any questions, complaints, or requests related to your privacy, you can contact the developer through the support server:
 
-🔗 Servidor de soporte
-o https://discord.com/invite/QGsU9fZwQn
+🔗 Support Server:
+https://discord.gg/QGsU9fZwQn
 
-Esta política cubre exclusivamente la funcionalidad de JINSOUL BOT dentro de Discord
+This policy exclusively covers the functionality of JINSOUL BOT within Discord.
